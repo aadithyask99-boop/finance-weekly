@@ -21,7 +21,7 @@
 // PUBLISHER CONFIGURATION — edit these 4 lines when deploying
 // for a new publisher. Everything else is platform code.
 // ============================================================
-const ORIGIN_URL    = 'https://finance-weekly-demo.vercel.app'; // publisher's site
+const ORIGIN_URL    = 'https://finance-weekly.vercel.app'; // publisher's site
 const PLATFORM_URL  = 'https://testbot-two-psi.vercel.app';     // boop platform
 const PUB_ID        = 'pub_001';                                 // your publisher ID
 const PUB_TOKEN     = 'pk_pub_001_financeweekly';               // your auth token
